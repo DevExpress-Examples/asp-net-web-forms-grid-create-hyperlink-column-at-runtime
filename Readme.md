@@ -14,7 +14,7 @@ This example demonstrates how to create a grid column that displays hyperlinks.
 
 ![Hyperlink Column](hyperlink-column.png)
 
-To create the HyperLink column at runtime follow the steps below.
+Follow the steps below to create the HyperLink column at runtime.
 
 1. Create an object of the [GridViewDataHyperLinkColumn](https://docs.devexpress.com/AspNet/DevExpress.Web.GridViewDataHyperLinkColumn) type.
 2. Use the object's [PropertiesHyperLinkEdit](https://docs.devexpress.com/AspNet/DevExpress.Web.GridViewDataHyperLinkColumn.PropertiesHyperLinkEdit) property to customize the hyperlink-related settings.
