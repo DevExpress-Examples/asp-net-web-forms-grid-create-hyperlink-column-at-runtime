@@ -6,7 +6,7 @@
 
 # Grid View for ASP.NET Web Forms - How to create and configure a HyperLink column at runtime
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e308/)**
+**[[Run Online]](https://codecentral.devexpress.com/128538710/)**
 <!-- run online end -->
 
 
