@@ -5,9 +5,6 @@
 <!-- default badges end -->
 
 # Grid View for ASP.NET Web Forms - How to create and configure a HyperLink column at runtime
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128538710/)**
-<!-- run online end -->
 
 
 This example demonstrates how to create a grid column that displays hyperlinks.
